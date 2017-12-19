@@ -1,0 +1,19 @@
+
+
+
+.pagination>li{
+    display: inline-block;
+}
+.simple-pagination li{
+    float: none;
+}
+
+body > .container{
+    min-height: 580px;
+}
+.copyright{
+    height: 50px;
+    color: #666;
+    background: #171919;
+    line-height: 50px;
+}
